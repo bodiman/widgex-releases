@@ -1,6 +1,6 @@
 # widgex-releases
-Releases for WidgeX \
-*Find them in the releases tab*
+This is the public repository for the released binaries and distributions of WidgeX IDE \
+Find the downloadable installers or dmgs in the releases tab
 
 # Latest Stable Release
 The latest build is v0.1.1 \
